@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "501384975705",
+    "project_id": "fuelauth-9ff03",
+    "storage_bucket": "fuelauth-9ff03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501384975705:android:891431603bf26d96212848",
+        "android_client_info": {
+          "package_name": "com.example.fuel_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzcMegUm7ANJirYRRv8EYeo78qpdTdy-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
